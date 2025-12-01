@@ -169,7 +169,6 @@ if st.button("احسب المخاطر"):
         color = "#FF0000"
 
     st.markdown(f"<h3 style='color: {color};'>{result}</h3>", unsafe_allow_html=True)
-Add Streamlit app for Islamic finance risk assessment
 
 
 
